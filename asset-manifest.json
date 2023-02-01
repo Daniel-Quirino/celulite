@@ -1,13 +1,16 @@
 {
   "files": {
-    "main.css": "/celulite/static/css/main.4af27778.css",
-    "main.js": "/celulite/static/js/main.c89fb4ca.js",
+    "main.css": "/celulite/static/css/main.dab0b1ac.css",
+    "main.js": "/celulite/static/js/main.d152dddb.js",
     "static/js/787.0aa6f7e2.chunk.js": "/celulite/static/js/787.0aa6f7e2.chunk.js",
     "static/media/mais-adulta.png": "/celulite/static/media/mais-adulta.5be6048d25f56a2ad70b.png",
     "static/media/idosa.png": "/celulite/static/media/idosa.dd8014bc2b2bb2e74931.png",
     "static/media/adulta.png": "/celulite/static/media/adulta.e2b968b25e4d8eea3592.png",
     "static/media/adolescente.png": "/celulite/static/media/adolescente.efcc73a28d032c6e3d7c.png",
     "static/media/leite.png": "/celulite/static/media/leite.8b991813aba18f9c0fc7.png",
+    "static/media/shake.png": "/celulite/static/media/shake.642d5ed6e5642a812cac.png",
+    "static/media/cha.png": "/celulite/static/media/cha.28eff9d6cc8c23fe4231.png",
+    "static/media/suco.png": "/celulite/static/media/suco.479e6f37eeb17f3d4910.png",
     "static/media/alcool.png": "/celulite/static/media/alcool.bfa746dcec5d0ac64495.png",
     "static/media/banana.png": "/celulite/static/media/banana.ff56166697c586ad2d37.png",
     "static/media/refrigerante.png": "/celulite/static/media/refrigerante.507ae904683d62f622c9.png",
@@ -15,12 +18,12 @@
     "static/media/body-back-120.png": "/celulite/static/media/body-back-120.964f1d4b6382c7f22f23.png",
     "static/media/chocolate.webp": "/celulite/static/media/chocolate.b8b94b523ab255f9f350.webp",
     "index.html": "/celulite/index.html",
-    "main.4af27778.css.map": "/celulite/static/css/main.4af27778.css.map",
-    "main.c89fb4ca.js.map": "/celulite/static/js/main.c89fb4ca.js.map",
+    "main.dab0b1ac.css.map": "/celulite/static/css/main.dab0b1ac.css.map",
+    "main.d152dddb.js.map": "/celulite/static/js/main.d152dddb.js.map",
     "787.0aa6f7e2.chunk.js.map": "/celulite/static/js/787.0aa6f7e2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4af27778.css",
-    "static/js/main.c89fb4ca.js"
+    "static/css/main.dab0b1ac.css",
+    "static/js/main.d152dddb.js"
   ]
 }
