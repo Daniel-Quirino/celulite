@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/celulite/static/css/main.01e4f7f6.css",
-    "main.js": "/celulite/static/js/main.9fe962b0.js",
+    "main.css": "/celulite/static/css/main.8162a749.css",
+    "main.js": "/celulite/static/js/main.e123c90c.js",
     "static/js/787.0aa6f7e2.chunk.js": "/celulite/static/js/787.0aa6f7e2.chunk.js",
     "static/media/mais-adulta.png": "/celulite/static/media/mais-adulta.5be6048d25f56a2ad70b.png",
     "static/media/idosa.png": "/celulite/static/media/idosa.dd8014bc2b2bb2e74931.png",
@@ -9,6 +9,7 @@
     "static/media/adolescente.png": "/celulite/static/media/adolescente.efcc73a28d032c6e3d7c.png",
     "static/media/leite.png": "/celulite/static/media/leite.8b991813aba18f9c0fc7.png",
     "static/media/shake.png": "/celulite/static/media/shake.642d5ed6e5642a812cac.png",
+    "static/media/balanca.png": "/celulite/static/media/balanca.209de3cb50c9e88d4208.png",
     "static/media/cha.png": "/celulite/static/media/cha.28eff9d6cc8c23fe4231.png",
     "static/media/suco.png": "/celulite/static/media/suco.479e6f37eeb17f3d4910.png",
     "static/media/alcool.png": "/celulite/static/media/alcool.bfa746dcec5d0ac64495.png",
@@ -18,12 +19,12 @@
     "static/media/body-back-120.png": "/celulite/static/media/body-back-120.964f1d4b6382c7f22f23.png",
     "static/media/chocolate.webp": "/celulite/static/media/chocolate.b8b94b523ab255f9f350.webp",
     "index.html": "/celulite/index.html",
-    "main.01e4f7f6.css.map": "/celulite/static/css/main.01e4f7f6.css.map",
-    "main.9fe962b0.js.map": "/celulite/static/js/main.9fe962b0.js.map",
+    "main.8162a749.css.map": "/celulite/static/css/main.8162a749.css.map",
+    "main.e123c90c.js.map": "/celulite/static/js/main.e123c90c.js.map",
     "787.0aa6f7e2.chunk.js.map": "/celulite/static/js/787.0aa6f7e2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.01e4f7f6.css",
-    "static/js/main.9fe962b0.js"
+    "static/css/main.8162a749.css",
+    "static/js/main.e123c90c.js"
   ]
 }
