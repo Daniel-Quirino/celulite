@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/celulite/static/css/main.c31571e6.css",
-    "main.js": "/celulite/static/js/main.76b642b5.js",
+    "main.css": "/celulite/static/css/main.1258dca0.css",
+    "main.js": "/celulite/static/js/main.d91a8e3c.js",
     "static/js/787.0aa6f7e2.chunk.js": "/celulite/static/js/787.0aa6f7e2.chunk.js",
     "static/media/mais-adulta.png": "/celulite/static/media/mais-adulta.5be6048d25f56a2ad70b.png",
     "static/media/idosa.png": "/celulite/static/media/idosa.dd8014bc2b2bb2e74931.png",
@@ -23,12 +23,12 @@
     "static/media/body-back-120.png": "/celulite/static/media/body-back-120.964f1d4b6382c7f22f23.png",
     "static/media/chocolate.webp": "/celulite/static/media/chocolate.b8b94b523ab255f9f350.webp",
     "index.html": "/celulite/index.html",
-    "main.c31571e6.css.map": "/celulite/static/css/main.c31571e6.css.map",
-    "main.76b642b5.js.map": "/celulite/static/js/main.76b642b5.js.map",
+    "main.1258dca0.css.map": "/celulite/static/css/main.1258dca0.css.map",
+    "main.d91a8e3c.js.map": "/celulite/static/js/main.d91a8e3c.js.map",
     "787.0aa6f7e2.chunk.js.map": "/celulite/static/js/787.0aa6f7e2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c31571e6.css",
-    "static/js/main.76b642b5.js"
+    "static/css/main.1258dca0.css",
+    "static/js/main.d91a8e3c.js"
   ]
 }
