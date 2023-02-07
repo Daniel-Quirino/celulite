@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/celulite/static/css/main.1258dca0.css",
-    "main.js": "/celulite/static/js/main.da5dfaea.js",
+    "main.js": "/celulite/static/js/main.ab715b94.js",
     "static/js/787.0aa6f7e2.chunk.js": "/celulite/static/js/787.0aa6f7e2.chunk.js",
     "static/media/mais-adulta.png": "/celulite/static/media/mais-adulta.5be6048d25f56a2ad70b.png",
     "static/media/idosa.png": "/celulite/static/media/idosa.dd8014bc2b2bb2e74931.png",
     "static/media/adulta.png": "/celulite/static/media/adulta.e2b968b25e4d8eea3592.png",
     "static/media/adolescente.png": "/celulite/static/media/adolescente.efcc73a28d032c6e3d7c.png",
     "static/media/error.png": "/celulite/static/media/error.1829bd2a7de1b5b7561f.png",
+    "static/media/logo.png": "/celulite/static/media/logo.248fe585134d3575969a.png",
     "static/media/balanca.png": "/celulite/static/media/balanca.209de3cb50c9e88d4208.png",
     "static/media/pegada.png": "/celulite/static/media/pegada.110c0e2c7ce809f1958a.png",
     "static/media/boia.png": "/celulite/static/media/boia.e2255974cf0c28ff594b.png",
@@ -20,11 +21,11 @@
     "static/media/body-back-120.png": "/celulite/static/media/body-back-120.964f1d4b6382c7f22f23.png",
     "index.html": "/celulite/index.html",
     "main.1258dca0.css.map": "/celulite/static/css/main.1258dca0.css.map",
-    "main.da5dfaea.js.map": "/celulite/static/js/main.da5dfaea.js.map",
+    "main.ab715b94.js.map": "/celulite/static/js/main.ab715b94.js.map",
     "787.0aa6f7e2.chunk.js.map": "/celulite/static/js/787.0aa6f7e2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1258dca0.css",
-    "static/js/main.da5dfaea.js"
+    "static/js/main.ab715b94.js"
   ]
 }
