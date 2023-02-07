@@ -1,30 +1,30 @@
 {
   "files": {
     "main.css": "/celulite/static/css/main.1258dca0.css",
-    "main.js": "/celulite/static/js/main.bd0be79d.js",
+    "main.js": "/celulite/static/js/main.ec28d0ca.js",
     "static/js/787.0aa6f7e2.chunk.js": "/celulite/static/js/787.0aa6f7e2.chunk.js",
     "static/media/mais-adulta.png": "/celulite/static/media/mais-adulta.5be6048d25f56a2ad70b.png",
     "static/media/idosa.png": "/celulite/static/media/idosa.dd8014bc2b2bb2e74931.png",
     "static/media/adulta.png": "/celulite/static/media/adulta.e2b968b25e4d8eea3592.png",
     "static/media/adolescente.png": "/celulite/static/media/adolescente.efcc73a28d032c6e3d7c.png",
-    "static/media/leite.png": "/celulite/static/media/leite.8b991813aba18f9c0fc7.png",
     "static/media/error.png": "/celulite/static/media/error.1829bd2a7de1b5b7561f.png",
     "static/media/balanca.png": "/celulite/static/media/balanca.209de3cb50c9e88d4208.png",
-    "static/media/maca.png": "/celulite/static/media/maca.fb7e5f0033619c07c460.png",
+    "static/media/pegada.png": "/celulite/static/media/pegada.110c0e2c7ce809f1958a.png",
+    "static/media/boia.png": "/celulite/static/media/boia.e2255974cf0c28ff594b.png",
     "static/media/logo-cha.png": "/celulite/static/media/logo-cha.f50bf390587aadce2215.png",
-    "static/media/gengibre.png": "/celulite/static/media/gengibre.0b777a978529a840f74a.png",
-    "static/media/banana.png": "/celulite/static/media/banana.ff56166697c586ad2d37.png",
+    "static/media/halteres.png": "/celulite/static/media/halteres.a978c248b3730158df02.png",
+    "static/media/x.png": "/celulite/static/media/x.3f1bab1caea9290ffce9.png",
     "static/media/correct.png": "/celulite/static/media/correct.e7681310f52a901c040d.png",
+    "static/media/musica.png": "/celulite/static/media/musica.ed0cc7febb06dbbe4b8d.png",
     "static/media/body-front-120.png": "/celulite/static/media/body-front-120.d9a094a38ec703e31ad6.png",
     "static/media/body-back-120.png": "/celulite/static/media/body-back-120.964f1d4b6382c7f22f23.png",
-    "static/media/chocolate.webp": "/celulite/static/media/chocolate.b8b94b523ab255f9f350.webp",
     "index.html": "/celulite/index.html",
     "main.1258dca0.css.map": "/celulite/static/css/main.1258dca0.css.map",
-    "main.bd0be79d.js.map": "/celulite/static/js/main.bd0be79d.js.map",
+    "main.ec28d0ca.js.map": "/celulite/static/js/main.ec28d0ca.js.map",
     "787.0aa6f7e2.chunk.js.map": "/celulite/static/js/787.0aa6f7e2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1258dca0.css",
-    "static/js/main.bd0be79d.js"
+    "static/js/main.ec28d0ca.js"
   ]
 }
