@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1258dca0.css",
-    "main.js": "/static/js/main.2588b8c6.js",
+    "main.js": "/static/js/main.aa718f04.js",
     "static/js/787.0aa6f7e2.chunk.js": "/static/js/787.0aa6f7e2.chunk.js",
     "static/media/mais-adulta.png": "/static/media/mais-adulta.5be6048d25f56a2ad70b.png",
     "static/media/idosa.png": "/static/media/idosa.dd8014bc2b2bb2e74931.png",
@@ -21,11 +21,11 @@
     "static/media/body-back-120.png": "/static/media/body-back-120.964f1d4b6382c7f22f23.png",
     "index.html": "/index.html",
     "main.1258dca0.css.map": "/static/css/main.1258dca0.css.map",
-    "main.2588b8c6.js.map": "/static/js/main.2588b8c6.js.map",
+    "main.aa718f04.js.map": "/static/js/main.aa718f04.js.map",
     "787.0aa6f7e2.chunk.js.map": "/static/js/787.0aa6f7e2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1258dca0.css",
-    "static/js/main.2588b8c6.js"
+    "static/js/main.aa718f04.js"
   ]
 }
